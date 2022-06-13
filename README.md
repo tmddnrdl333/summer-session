@@ -6,18 +6,18 @@
 |구분|진행상태|학습시간|분야|과제명|비고|
 | ------ | ------ | ------ | ------ | ------ | ------ |
 |`필수 1` | :white_check_mark: || [SSAFY 기본](SSAFY기본) | [1학기와 2학기의 차이](SSAFY기본/1학기와-2학기의-차이) | |
-| | :white_check_mark: || [SSAFY 기본](SSAFY기본) | [SSAFY GIT 실습](SSAFY기본/SSAFY-GIT-실습) | |
+| | :white_large_square: || [SSAFY 기본](SSAFY기본) | [SSAFY GIT 실습](SSAFY기본/SSAFY-GIT-실습) | |
 |선택| :white_large_square: || [분야 추가] | [프로젝트 추가] | |
 |선택| :white_large_square: || [분야 추가] | [프로젝트 추가] | |
 |선택| :white_large_square: || [분야 추가] | [프로젝트 추가] | |
 
 ---
- 
+
 ### [2일차](2022-6-14.md)
 |구분|진행상태|학습시간|분야|과제명|비고|
 | ------ | ------ | ------ | ------ | ------ | ------ |
-|`필수 2`| :white_check_mark: || [설계](설계) | [Database 설계 및 SQL 작성](설계/DB-Design) | |
-|`필수 3`| :white_check_mark: || [텍스트처리](텍스트처리) | [Mysql/MariaDB data processing](텍스트처리/Mysql-MariaDB-data-processing) | |
+|`필수 2`| :white_large_square: || [설계](설계) | [Database 설계 및 SQL 작성](설계/DB-Design) | |
+|`필수 3`| :white_large_square: || [텍스트처리](텍스트처리) | [Mysql/MariaDB data processing](텍스트처리/Mysql-MariaDB-data-processing) | |
 |선택| :white_large_square: || [분야 추가] | [프로젝트 추가] | |
 |선택| :white_large_square: || [분야 추가] | [프로젝트 추가] | |
 |선택| :white_large_square: || [분야 추가] | [프로젝트 추가] | |
@@ -27,8 +27,8 @@
 ### [3일차](2022-6-15.md)
 |구분|진행상태|학습시간|분야|과제명|비고|
 | ------ | ------ | ------ | ------ | ------ | ------ |
-|`필수 4`| :white_check_mark: || [웹](웹) | [Vue를 이용하여 채팅 구현하기](웹/Vue를-이용하여-채팅구현) | |
-|`필수 5`| :white_check_mark: || [웹](웹) | [비동기 프로그래밍 이해](웹/비동기-프로그래밍) | |
+|`필수 4`| :white_large_square: || [웹](웹) | [Vue를 이용하여 채팅 구현하기](웹/Vue를-이용하여-채팅구현) | |
+|`필수 5`| :white_large_square: || [웹](웹) | [비동기 프로그래밍 이해](웹/비동기-프로그래밍) | |
 |선택| :white_large_square: || [분야 추가] | [프로젝트 추가] | |
 |선택| :white_large_square: || [분야 추가] | [프로젝트 추가] | |
 |선택| :white_large_square: || [분야 추가] | [프로젝트 추가] | |
@@ -38,8 +38,8 @@
 ### [4일차](2022-6-16.md)
 |구분|진행상태|학습시간|분야|과제명|비고|
 | ------ | ------ | ------ | ------ | ------ | ------ |
-|`필수 6`| :white_check_mark: || [웹](웹) | [node.js와 socket.io를 활용한 채팅 server/client 구현](웹/Nodejs-Chat-Server-Client) | |
-|`필수 7`| :white_check_mark: || [개발공통](개발공통) | [스케줄러 활용](개발공통/스케줄러-활용) | |
+|`필수 6`| :white_large_square: || [웹](웹) | [node.js와 socket.io를 활용한 채팅 server/client 구현](웹/Nodejs-Chat-Server-Client) | |
+|`필수 7`| :white_large_square: || [개발공통](개발공통) | [스케줄러 활용](개발공통/스케줄러-활용) | |
 |선택| :white_large_square: || [분야 추가] | [프로젝트 추가] | |
 |선택| :white_large_square: || [분야 추가] | [프로젝트 추가] | |
 |선택| :white_large_square: || [분야 추가] | [프로젝트 추가] | |
@@ -49,8 +49,8 @@
 ### [5일차](2022-6-17.md)
 |구분|진행상태|학습시간|분야|과제명|비고|
 | ------ | ------ | ------ | ------ | ------ | ------ |
-|`필수 8`| :white_check_mark: || [Infra](Infra) | [Jenkins + docker를 활용한 CI/CD 구축](Infra/Jenkins-docker%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-CI-CD%EA%B5%AC%EC%B6%95) | |
-|`필수 9`| :white_check_mark: || [SW공학](SW공학) | [테스트 케이스 만들어보기](SW%EA%B3%B5%ED%95%99/%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%BC%80%EC%9D%B4%EC%8A%A4-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0) | |
+|`필수 8`| :white_large_square: || [Infra](Infra) | [Jenkins + docker를 활용한 CI/CD 구축](Infra/Jenkins-docker%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-CI-CD%EA%B5%AC%EC%B6%95) | |
+|`필수 9`| :white_large_square: || [SW공학](SW공학) | [테스트 케이스 만들어보기](SW%EA%B3%B5%ED%95%99/%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%BC%80%EC%9D%B4%EC%8A%A4-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0) | |
 |선택| :white_large_square: || [분야 추가] | [프로젝트 추가] | |
 |선택| :white_large_square: || [분야 추가] | [프로젝트 추가] | |
 |선택| :white_large_square: || [분야 추가] | [프로젝트 추가] | |
