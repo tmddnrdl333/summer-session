@@ -28,7 +28,7 @@
 |구분|진행상태|학습시간|분야|과제명|비고|
 | ------ | ------ | ------ | ------ | ------ | ------ |
 |`필수 4`| :white_large_square: || [웹](웹) | [Vue를 이용하여 채팅 구현하기](웹/Vue를-이용하여-채팅구현) | |
-|`필수 5`| :white_large_square: || [웹](웹) | [비동기 프로그래밍 이해](웹/비동기-프로그래밍) | |
+|`필수 5`| :white_check_mark: || [웹](웹) | [비동기 프로그래밍 이해](웹/비동기-프로그래밍) | |
 |선택| :white_large_square: || [분야 추가] | [프로젝트 추가] | |
 |선택| :white_large_square: || [분야 추가] | [프로젝트 추가] | |
 |선택| :white_large_square: || [분야 추가] | [프로젝트 추가] | |
@@ -38,7 +38,7 @@
 ### [4일차](2022-6-16.md)
 |구분|진행상태|학습시간|분야|과제명|비고|
 | ------ | ------ | ------ | ------ | ------ | ------ |
-|`필수 6`| :white_large_square: || [웹](웹) | [node.js와 socket.io를 활용한 채팅 server/client 구현](웹/Nodejs-Chat-Server-Client) | |
+|`필수 6`| :white_check_mark: || [웹](웹) | [node.js와 socket.io를 활용한 채팅 server/client 구현](웹/Nodejs-Chat-Server-Client) | |
 |`필수 7`| :white_large_square: || [개발공통](개발공통) | [스케줄러 활용](개발공통/스케줄러-활용) | |
 |선택| :white_large_square: || [분야 추가] | [프로젝트 추가] | |
 |선택| :white_large_square: || [분야 추가] | [프로젝트 추가] | |
