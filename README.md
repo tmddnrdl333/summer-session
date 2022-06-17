@@ -67,7 +67,7 @@
 |선택 2 | 상 | [웹 어플리케이션 캐시 적용](%EC%B5%9C%EC%A0%81%ED%99%94/%EC%9B%B9-%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%BA%90%EC%8B%9C-%EC%A0%81%EC%9A%A9/) |
 |선택 3 | 상 | [코딩 테스트 채점 서버 만들기](웹/%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%B1%84%EC%A0%90-%EC%84%9C%EB%B2%84-%EB%A7%8C%EB%93%A4%EA%B8%B0/) |
 |선택 4 | 상 | [CSR vs SSR](웹/Web%EC%97%90%EC%84%9C-Rendering-%EA%B8%B0%EC%88%A0-%EC%B0%A8%EC%9D%B4) |
-|선택 5 | 상 | [Collection 활용](%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%BD%94%EB%93%9C-%EA%B0%9C%EC%84%A0%EC%9D%84-%EC%9C%84%ED%95%9C-Collection-%EC%82%AC%EC%9A%A9) |
+|**선택 5** | **상** | **[Collection 활용](%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%BD%94%EB%93%9C-%EA%B0%9C%EC%84%A0%EC%9D%84-%EC%9C%84%ED%95%9C-Collection-%EC%82%AC%EC%9A%A9)** |
 |선택 6 | 중 | [Create Next App + React + Typescript + next.js로 프론트엔드 프로젝트 토대 쌓기](웹/Create-Next-App) |
 |선택 7 | 중 | [SpringBoot로 인별그램을 만들어 보자!](%EC%9E%90%EB%B0%94/SpringBoot%EB%A1%9C-%EC%9D%B8%EB%B3%84%EA%B7%B8%EB%9E%A8%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%96%B4-%EB%B3%B4%EC%9E%90) |
 |선택 8 | 중 | [자바스크립트에서 Firebase 활용하기](Infra/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-Firebase-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0) |
@@ -82,8 +82,10 @@
 |선택 17 | 하 | [AOS 구글맵 띄우기 and Marker 띄우기](aos_map) |
 |선택 18 | 하 | [효율적인 알고리즘 설계와 순서도(Flowchart), 의사코드(pseudo-code) 작성](%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%84%A4%EA%B3%84%EC%99%80-%EC%88%9C%EC%84%9C%EB%8F%84-%EC%9D%98%EC%82%AC%EC%BD%94%EB%93%9C-%EC%9E%91%EC%84%B1) |
 |선택 19 | 하 | [Google Colab기반의 Face Recognition 입문 PJT](%EC%96%BC%EA%B5%B4%EC%9D%B8%EC%8B%9D/Google-Colab%EA%B8%B0%EB%B0%98%EC%9D%98-Face-Recognition-%EC%9E%85%EB%AC%B8PJT) |
-|선택 20 | 하 | [SSAFY 스무고개 with REST](%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/SSAFY-%EC%8A%A4%EB%AC%B4%EA%B3%A0%EA%B0%9C-with-REST) |
+|**선택 20** | **하** | **[SSAFY 스무고개 with REST](%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/SSAFY-%EC%8A%A4%EB%AC%B4%EA%B3%A0%EA%B0%9C-with-REST)** |
 |선택 21 | 하 | [Vue의 데이터 전송 방법](%EA%B0%9C%EB%B0%9C%EA%B3%B5%ED%86%B5/Vue%EC%9D%98-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%84%EC%86%A1-%EB%B0%A9%EB%B2%95) |
 |선택 22 | 하 | [DB설계, ERD 작성 실습](DB/DB%EC%84%A4%EA%B3%84-ERD-%EC%9E%91%EC%84%B1-%EC%8B%A4%EC%8A%B5) |
-|선택 23 | 하 | [Mysql 프로시저 만들고 실행](DB/mysql-%ED%94%84%EB%A1%9C%EC%8B%9C%EC%A0%80-%EC%9E%91%EC%84%B1-%EC%8B%A4%EC%8A%B5) |
+|**선택 23** | **하** | **[Mysql 프로시저 만들고 실행](DB/mysql-%ED%94%84%EB%A1%9C%EC%8B%9C%EC%A0%80-%EC%9E%91%EC%84%B1-%EC%8B%A4%EC%8A%B5)** |
 |선택 24 | 하 | [PostgreSQL 사용](DB/PostgreSQL-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0) |
+
+**5 20 23 완료**
