@@ -49,7 +49,7 @@
 ### [5일차](2022-6-17.md)
 |구분|진행상태|학습시간|분야|과제명|비고|
 | ------ | ------ | ------ | ------ | ------ | ------ |
-|`필수 8`| :white_large_square: || [Infra](Infra) | [Jenkins + docker를 활용한 CI/CD 구축](Infra/Jenkins-docker%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-CI-CD%EA%B5%AC%EC%B6%95) | |
+|`필수 8`| :white_check_mark: || [Infra](Infra) | [Jenkins + docker를 활용한 CI/CD 구축](Infra/Jenkins-docker%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-CI-CD%EA%B5%AC%EC%B6%95) | |
 |`필수 9`| :white_large_square: || [SW공학](SW공학) | [테스트 케이스 만들어보기](SW%EA%B3%B5%ED%95%99/%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%BC%80%EC%9D%B4%EC%8A%A4-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0) | |
 |선택| :white_large_square: || [분야 추가] | [프로젝트 추가] | |
 |선택| :white_large_square: || [분야 추가] | [프로젝트 추가] | |
